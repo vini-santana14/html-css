@@ -1,0 +1,42 @@
+/* Color Theme Swatches in Hex */
+.contrução,-ferramentas-em-obra--1-hex { color: #739FD9; }
+.contrução,-ferramentas-em-obra--2-hex { color: #ACD1F2; }
+.contrução,-ferramentas-em-obra--3-hex { color: #F2EDA0; }
+.contrução,-ferramentas-em-obra--4-hex { color: #F28F6B; }
+.contrução,-ferramentas-em-obra--5-hex { color: #592519; }
+
+/* Color Theme Swatches in RGBA */
+.contrução,-ferramentas-em-obra--1-rgba { color: rgba(114, 159, 216, 1); }
+.contrução,-ferramentas-em-obra--2-rgba { color: rgba(171, 209, 242, 1); }
+.contrução,-ferramentas-em-obra--3-rgba { color: rgba(242, 236, 159, 1); }
+.contrução,-ferramentas-em-obra--4-rgba { color: rgba(242, 142, 106, 1); }
+.contrução,-ferramentas-em-obra--5-rgba { color: rgba(89, 36, 24, 1); }
+
+/* Color Theme Swatches in HSLA */
+.contrução,-ferramentas-em-obra--1-hsla { color: hsla(213, 57, 65, 1); }
+.contrução,-ferramentas-em-obra--2-hsla { color: hsla(208, 73, 81, 1); }
+.contrução,-ferramentas-em-obra--3-hsla { color: hsla(56, 76, 78, 1); }
+.contrução,-ferramentas-em-obra--4-hsla { color: hsla(16, 84, 68, 1); }
+.contrução,-ferramentas-em-obra--5-hsla { color: hsla(11, 56, 22, 1); }
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #4A507D; }
+.My-Color-Theme-2-hex { color: #95A1FC; }
+.My-Color-Theme-3-hex { color: #E1E4FD; }
+.My-Color-Theme-4-hex { color: #6F717D; }
+.My-Color-Theme-5-hex { color: #7780C9; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(74, 80, 125, 1); }
+.My-Color-Theme-2-rgba { color: rgba(149, 161, 252, 1); }
+.My-Color-Theme-3-rgba { color: rgba(225, 228, 253, 1); }
+.My-Color-Theme-4-rgba { color: rgba(111, 113, 125, 1); }
+.My-Color-Theme-5-rgba { color: rgba(119, 128, 201, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(232, 25, 39, 1); }
+.My-Color-Theme-2-hsla { color: hsla(233, 94, 78, 1); }
+.My-Color-Theme-3-hsla { color: hsla(233, 87, 93, 1); }
+.My-Color-Theme-4-hsla { color: hsla(231, 5, 46, 1); }
+.My-Color-Theme-5-hsla { color: hsla(233, 43, 62, 1); }
+
