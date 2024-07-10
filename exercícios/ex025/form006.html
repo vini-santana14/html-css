@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulario</title>
+    </head>
+    <body>
+        <h1>Exemplo de form</h1>
+        <form action="cadastro.php" method="post">
+                <fieldset>
+                    <legend>Menu</legend>
+                    <p>
+                        <label for="icolor">Cor: </label>
+                        <input type="color" name="color" id="icolor" value="#00ff00">
+                    </p>
+                    <p>
+                        <label for="inivel">Satfaction level </label>
+                        <input type="range" name="nivel" id="inivel" min="1" max="5" value="2">
+                    </p>
+                    <p>
+                        <label for="ifoto">Foto</label>
+                        <input type="file" name="Foto" id="ifoto">
+                    </p>
+                    <!--O INPUT FILE TEM QUE ESTAR COM O METHOD POST PARA FUNCIONAR NORMALMENTE E O ARQUIVO APARECERA NAQUELE CABECALHO-->
+                </fieldset>
+
+
+
+
+            <fieldset>
+                <legend>Button</legend>
+                <p>
+                    <input type="submit" value="Enviar">
+                    <input type="reset" value="Limpar">
+                </p>
+            </fieldset>
+        </form>
+    </body>
+</html>
